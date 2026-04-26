@@ -347,4 +347,3 @@ MIT — see `LICENSE` if/when you add one. This was built as an internship assig
 ## 🙋 Questions?
 
 Open an issue on the repo, or contact me through the Career Portal where this assignment was submitted.
-# TalentScout
